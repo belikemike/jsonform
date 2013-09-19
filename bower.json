@@ -1,0 +1,29 @@
+{
+  "name": "jquery.jsonform",
+  "version": "1.2.5",
+  "homepage": "https://github.com/belikemike/jsonform",
+  "authors": [
+    "Christiano Milfont <cmilfont@gmail.com>",
+    "Josh Minnich <joshminnich@gmail.com>",
+    "Alberto Leal <albertonb@gmail.com>",
+    "Abraao Alves <abraao.teodosio@gmail.com>"
+  ],
+  "description": "Create standard JSON from Forms or populate form with json using jQuery",
+  "main": "minified/jsonform.min.js",
+  "keywords": [
+    "json",
+    "form",
+    "jquery",
+    "html",
+    "javascript",
+    "ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -75,3 +75,4 @@ sudo chmod 777 testrunner
  * [Alberto Leal] (https://github.com/albertoleal)
  * [Abraão Alves] (https://github.com/AbraaoAlves)
  * [Christiano Milfont] (https://github.com/cmilfont)
+ * [Mike Clagg] (https://github.com/belikemike)
